@@ -8,7 +8,6 @@ Desenvolvimento da parte web.
 * ContextAPI para gerenciamento de estado
 * Axios (Requests)
 * Ant Design
-* Jest (Testes)
 * Eslint
 * Prettier
 
